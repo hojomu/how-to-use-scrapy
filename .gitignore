@@ -1,0 +1,6 @@
+script/
+excel/
+scrap/
+
+*.xlsx
+*.json
